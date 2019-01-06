@@ -9,3 +9,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 python3
+修改--for test git push go lang
+--vim test
+
